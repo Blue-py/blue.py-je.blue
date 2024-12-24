@@ -13,7 +13,7 @@
             height: 100vh;
             margin: 0;
             font-family: Arial, sans-serif;
-            background: url('dark-blue-paint-minimal-background.JPG');
+            background: url('dark-blue-paint-minimal-background.jpg');
         }
         .text {
             font-size: 24px;
