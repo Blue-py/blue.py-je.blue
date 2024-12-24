@@ -35,7 +35,7 @@
     </style>
 </head>
 <body>
-    <div class="text">You can get apps from buebot</div>
+    <div class="text">You can get apps from buebot(the website will be fixed soon)</div>
     <a href="https://discord.com/oauth2/authorize?client_id=1291502432765083719&permissions=8&integration_type=0&scope=bot" class="button">add bot</a>
 </body>
 </html>
