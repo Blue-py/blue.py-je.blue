@@ -19,7 +19,7 @@
         .text {
             font-size: 24px;
             margin-bottom: 20px;
-            color: #333;
+            color: black; 
         }
         .button {
             padding: 10px 20px;
