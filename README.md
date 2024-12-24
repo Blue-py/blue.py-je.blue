@@ -1,8 +1,8 @@
+<!DOCTYPE html>
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
     <style>
         body {
             display: flex;
@@ -13,6 +13,8 @@
             margin: 0;
             font-family: Arial, sans-serif;
             background: url('dark-blue-paint-minimal-background.jpg');
+            background-size: cover;
+            background-position: center;
         }
         .text {
             font-size: 24px;
@@ -32,10 +34,18 @@
         .button:hover {
             background-color: #0056b3;
         }
+        .footer-text {
+            position: absolute;
+            bottom: 10px;
+            font-size: 16px;
+            color: #fff;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
     <div class="text">You can get apps from buebot</div>
     <a href="https://discord.com/oauth2/authorize?client_id=1291502432765083719&permissions=8&integration_type=0&scope=bot" class="button">add bot</a>
+    <div class="footer-text">the website will be fixed soon</div>
 </body>
 </html>
