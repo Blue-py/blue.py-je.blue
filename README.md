@@ -13,6 +13,8 @@
             margin: 0;
             font-family: Arial, sans-serif;
             background: url('dark-blue-paint-minimal-background.jpg');
+            background-size: cover;
+            background-position: center;
         }
         .text {
             font-size: 24px;
